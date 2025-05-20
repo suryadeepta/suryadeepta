@@ -1,11 +1,16 @@
 **Hi, Surya here. 🗣️**
 
 
-🧠 Computer science major student at Scottish church college
-🐧 I am good in designing anything, from posters to UI/UX
-🤕 Currently learning Mahcine Learning, so am I learning or the machine?😵
-🎧 Music is essential, specially DHH
+🧠 Computer science major student at Scottish church college.
+
+🐧 I am good in designing anything, from posters to UI/UX.
+
+🤕 Currently learning Mahcine Learning, so am I learning or the machine?😵.
+
+🎧 Music is essential, specially DHH.
+
 📸 Almost forgot to tell, I click good photos. At least ppl say that.
+
 Didn't believe? check my Insta profile - https://www.instagram.com/suryadeeptapaul/
 
 
