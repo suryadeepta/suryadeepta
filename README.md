@@ -6,7 +6,7 @@
 🤕 Currently learning Mahcine Learning, so am I learning or the machine?😵 <br/>
 🎧 Music is essential, specially DHH <br/>
 📸 Almost forgot to tell, I click good photos. At least ppl say that <br/>
-Didn't believe? check my Insta profile - https://www.instagram.com/suryadeeptapaul/
+Didn't believe? check my [Insta](https://www.instagram.com/suryadeeptapaul/) profile
 
 
 ## 🌐 Socials:
