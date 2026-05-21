@@ -20,7 +20,7 @@ Didn't believe? check my [Insta](https://www.instagram.com/suryadeeptapaul/) pro
 <div align="center">
 
 <!-- Animated Banner / Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Suryadeepta%20 &fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Dev%20%7C%20Python%20Enthusiast%20%7C%20Builder%20of%20Things&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Suryadeepta%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Dev%20%7C%20Python%20Enthusiast%20%7C%20Builder%20of%20Things&descAlignY=58&descSize=18" />
 
 <br/>
 
