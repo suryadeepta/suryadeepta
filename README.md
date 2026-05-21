@@ -76,10 +76,10 @@ I built **C.I.R.A.L** — my personal AI assistant project (currently on Mark V)
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryadeepta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=suryadeepta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadeepta&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
+<br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadeepta&theme=tokyonight&hide_border=true" />
 
@@ -109,4 +109,4 @@ I built **C.I.R.A.L** — my personal AI assistant project (currently on Mark V)
 ---
 [![](https://visitcount.itsvg.in/api?id=suryadeepta&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
